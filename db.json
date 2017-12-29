@@ -1,22 +1,22 @@
 [
   {
     "name": "Stephen",
-    "id": 1,
+    "id": 1
   },
   {
     "name": "George",
-    "id": 2,
+    "id": 2
   },
   {
     "name": "Frank",
-    "id": 3,
+    "id": 3
   },
-    {
+  {
     "name": "Walter",
-    "id": 4,
+    "id": 4
   },
-    {
+  {
     "name": "Francis",
-    "id": 5,
+    "id": 5
   }
 ]
